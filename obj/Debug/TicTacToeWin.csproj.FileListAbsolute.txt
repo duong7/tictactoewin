@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\TicTacToeWin\bin\Debug\TicTacToeWin.exe.config
+C:\Users\ADMIN\source\repos\TicTacToeWin\bin\Debug\TicTacToeWin.exe.manifest
+C:\Users\ADMIN\source\repos\TicTacToeWin\bin\Debug\TicTacToeWin.application
+C:\Users\ADMIN\source\repos\TicTacToeWin\bin\Debug\TicTacToeWin.exe
+C:\Users\ADMIN\source\repos\TicTacToeWin\bin\Debug\TicTacToeWin.pdb
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.Form1.resources
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.exe.manifest
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.application
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.exe
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.pdb
+C:\Users\ADMIN\source\repos\TicTacToeWin\obj\Debug\TicTacToeWin.csproj.AssemblyReference.cache
